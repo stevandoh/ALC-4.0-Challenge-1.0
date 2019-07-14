@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="app_title">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Steve Dawsonn-Andoh</string>
+    <string name="track_text">Track: Android</string>
+    <string name="country_text">Country: Ghana</string>
+    <string name="email_text">Email: stevandoh@gmail.com</string>
+    <string name="phone_text">Phone Number: +233552226026</string>
+    <string name="slack_text">Slack Username: @stevandoh</string>
+    <string name="web_view_error">An Error Occurred</string>
+    <string name="alc_link">https://www.andela.com/alc</string>
+    <string name="retry">Retry</string>
+    <string name="activity_c_title">My Profile</string>
+    <string name="activity_b_title">About ALC</string>
+    <string name="no_internet_error">No internet connection</string>
+</resources>
